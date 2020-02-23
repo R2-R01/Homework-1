@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is F6FD-4D70
-
- Directory of C:\HW1
-
-02/20/2020  04:13 PM    <DIR>          .
-02/20/2020  04:13 PM    <DIR>          ..
-02/20/2020  04:13 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  24,737,050,624 bytes free
+ Hello world, this file was changed recently
